@@ -23,3 +23,5 @@ TCHAT_ID = '' //isi dengan chat id telegram kalian
 3. setelah itu jalankan program diaplikasi editor code kalian
 
 
+[link video demo](https://www.tiktok.com/@em_a_es_pe/video/7084477134051347738?is_from_webapp=1&sender_device=pc&web_id=7084059259725547010 "lihat demo")
+
