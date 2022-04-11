@@ -21,3 +21,6 @@ API_KEY = '' //isi dengan API telegram bot kalian
 TCHAT_ID = '' //isi dengan chat id telegram kalian
 ```
 3. setelah itu jalankan program diaplikasi editor code kalian
+
+
+[Lihat demo sms](https://www.tiktok.com/@em_a_es_pe/video/7084477134051347738?is_from_webapp=1&sender_device=pc&web_id=7084059259725547010 "Pergi ke video demo")
