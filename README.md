@@ -23,4 +23,3 @@ TCHAT_ID = '' //isi dengan chat id telegram kalian
 3. setelah itu jalankan program diaplikasi editor code kalian
 
 
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
